@@ -21,9 +21,9 @@ Coded so far:
 - I (player) doesn't get teleported.
 
 Some stupid bugs :
-- when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
+- !!!!! FIXED -using casting method? !!!!! when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
 - when cubes are teleported, they are LITERALLY TELEPORTED. Jeez, i wanted more of a sweeping motion
-
+- shadow stays when I deleted a static mesh from my map?? dumb.
 Want to do??:
 - (c)create volume that static mesh 'clicks into' 
 - ^^^^// so scrap this idea, we just want a method to transport blocks on trigger overlaping component to build into some sort of structure..//
