@@ -19,10 +19,12 @@ Coded so far:
 - aiming at cone and clicking spawns cubes from the cube blueprint class
 - when cubes or anything is overlapping on box, it gets teleported to teleport zone...
 - I (player) doesn't get teleported.
+
 Some stupid bugs :
 - !!!!! FIXED -using casting method? !!!!! when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
 - when cubes are teleported, they are LITERALLY TELEPORTED. Jeez, i wanted more of a sweeping motion
 - shadow stays when I deleted a static mesh from my map?? dumb.
+
 Want to do??:
 - (c)create volume that static mesh 'clicks into' 
 - ^^^^// so scrap this idea, we just want a method to transport blocks on trigger overlaping component to build into some sort of structure..//
@@ -31,6 +33,7 @@ Want to do??:
 - (c) make followers?? (kind of just want to flex my knollege in AI hehe)
 - (a) get villager bodies - ye olde 3d pixel art models
 - find things to do..
+
 Theme so far/story boarding:
 - I seem to like the single creepy hand
 - Takes place in: forest type place, more cute and fantasy like than creepy
