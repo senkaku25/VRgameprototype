@@ -19,7 +19,6 @@ Coded so far:
 - aiming at cone and clicking spawns cubes from the cube blueprint class
 - when cubes or anything is overlapping on box, it gets teleported to teleport zone...
 - I (player) doesn't get teleported.
-
 Some stupid bugs :
 - !!!!! FIXED -using casting method? !!!!! when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
 - when cubes are teleported, they are LITERALLY TELEPORTED. Jeez, i wanted more of a sweeping motion
@@ -32,9 +31,11 @@ Want to do??:
 - (c) make followers?? (kind of just want to flex my knollege in AI hehe)
 - (a) get villager bodies - ye olde 3d pixel art models
 - find things to do..
-
 Theme so far/story boarding:
 - I seem to like the single creepy hand
 - Takes place in: forest type place, more cute and fantasy like than creepy
 - aesthetic: halloween type characters but in a more cute and fatasy like pixel way. :)
 - story: You are basically a hand with the power to bring things toward you (really heavy things like rocks and stuff) and you start off in this forest. The forest is inhabited by ghosts who want settlement in the forest (houses, bridges, etc.); nevertheless, they can't physically pick stuff up because they are, well.. ghosts. So you must use your cool powers to help pull material from your surrounding and build settlement for these helpless, yearning beings.
+
+Stuff figured out so far:
+- Casting: when you want to dive into another class blueprint and change it from the blueprint casting it. - More research needed.
