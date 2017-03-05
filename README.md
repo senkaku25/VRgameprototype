@@ -19,11 +19,15 @@ Coded so far:
 - aiming at cone and clicking spawns cubes from the cube blueprint class
 - when cubes or anything is overlapping on box, it gets teleported to teleport zone...
 - I (player) doesn't get teleported.
+- when cubes are teleported it adds to a counter so when it hits 3 it'll teleport the lander that the cubes are teleported to
+- the lander goes towards a sqhere I placed into the game. (means that it can go to any component I set it to go towards
+- bridge is now walk acrossable
 
 Some stupid bugs :
 - !!!!! FIXED -using casting method? !!!!! when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
 - when cubes are teleported, they are LITERALLY TELEPORTED. Jeez, i wanted more of a sweeping motion
 - shadow stays when I deleted a static mesh from my map?? dumb.
+- the bridge will keep on building when i keep putting material onto a certain volume.
 
 Want to do??:
 - (c)create volume that static mesh 'clicks into' 
@@ -42,3 +46,4 @@ Theme so far/story boarding:
 
 Stuff figured out so far:
 - Casting: when you want to dive into another class blueprint and change it from the blueprint casting it. - More research needed.
+- Dealing with component vectors, how to transform them and the method to use thats not hard coding ;).
