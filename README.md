@@ -9,6 +9,9 @@ Resources I have gathered:
 - some starter content/code
 - 3D hand model from the open source web 
 
+IN THE PROCESS OF:
+- making an AI that follows you and has range
+
 Coded so far:
 - tracing using the camera
 - prints what I have pointed at
@@ -33,17 +36,19 @@ Want to do??:
 - (c)create volume that static mesh 'clicks into' 
 - ^^^^// so scrap this idea, we just want a method to transport blocks on trigger overlaping component to build into some sort of structure..//
 - (a)maybe make some material
-- (a)rip medieval town models and textures offline... woot
-- (c) make followers?? (kind of just want to flex my knollege in AI hehe)
+- (a) rip medieval town models and textures online... yay
+- (c) make followers?? (kind of just want to flex my knollege in AI hehe) //in the process of this
 - (a) get villager bodies - ye olde 3d pixel art models
+- (c) make database of speech stuff for my ghosts
 - find things to do..
 
 Theme so far/story boarding:
 - I seem to like the single creepy hand
-- Takes place in: forest type place, more cute and fantasy like than creepy
-- aesthetic: halloween type characters but in a more cute and fatasy like pixel way. :)
+- Takes place in: forest type place but i want cute aesthetic lighting of blue and green lights the size of dust particles - hard to explain but yeah
+- aesthetic: halloween type characters but in a more cute like pixel way. :)
 - story: You are basically a hand with the power to bring things toward you (really heavy things like rocks and stuff) and you start off in this forest. The forest is inhabited by ghosts who want settlement in the forest (houses, bridges, etc.); nevertheless, they can't physically pick stuff up because they are, well.. ghosts. So you must use your cool powers to help pull material from your surrounding and build settlement for these helpless, yearning beings.
 
 Stuff figured out so far:
 - Casting: when you want to dive into another class blueprint and change it from the blueprint casting it. - More research needed.
 - Dealing with component vectors, how to transform them and the method to use thats not hard coding ;).
+- learning behavior trees - nodes + blackboard stuff (what i have enjoyed most)
