@@ -25,6 +25,7 @@ Coded so far:
 - when cubes are teleported it adds to a counter so when it hits 3 it'll teleport the lander that the cubes are teleported to
 - the lander goes towards a sqhere I placed into the game. (means that it can go to any component I set it to go towards
 - bridge is now walk acrossable
+- AI implememnted in there: if you walk in its radius, it will follow you. if not it will wander around
 
 Some stupid bugs :
 - !!!!! FIXED -using casting method? !!!!! when spawned from the cone, cubes somehow get stuck there now... fricking had it right before
@@ -37,7 +38,8 @@ Want to do??:
 - ^^^^// so scrap this idea, we just want a method to transport blocks on trigger overlaping component to build into some sort of structure..//
 - (a)maybe make some material
 - (a) rip medieval town models and textures online... yay
-- (c) make followers?? (kind of just want to flex my knollege in AI hehe) //in the process of this
+- //done (c) make followers?? (kind of just want to flex my knollege in AI hehe)
+- (c) make the followers bring up a widget that asks if you want help: if yes they will follow, if not they will stay and wander till you specifically ask them to again
 - (a) get villager bodies - ye olde 3d pixel art models
 - (c) make database of speech stuff for my ghosts
 - find things to do..
@@ -52,3 +54,4 @@ Stuff figured out so far:
 - Casting: when you want to dive into another class blueprint and change it from the blueprint casting it. - More research needed.
 - Dealing with component vectors, how to transform them and the method to use thats not hard coding ;).
 - learning behavior trees - nodes + blackboard stuff (what i have enjoyed most)
+- implementing an AI's behaviors and conditionals(decorators) 
