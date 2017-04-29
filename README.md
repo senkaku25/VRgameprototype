@@ -1,5 +1,5 @@
-# terriblebutitried
-i don't know what i'm doing
+# What I got so far :)
+My ventures into programming games and what I've learnt so far!!
 
 
 SO FAR:
