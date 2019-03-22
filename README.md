@@ -1,8 +1,7 @@
 # What I got so far :)
-My ventures into programming games, open source resources I've gathered, and what I've learnt so far!!
+My ventures into programming games, open source resources I've gathered, and what I've learnt!!
 
-
-SO FAR:
+### SO FAR:
 
 Resources I have gathered:
 - first person example map
@@ -14,7 +13,7 @@ Resources I have gathered:
 - GTFreeMaterials -> free from marketplace
 - Foliage -> .rar pack from forum
 
-IN THE PROCESS OF:
+### IN THE PROCESS OF:
 - making an AI that follows you and has range
 
 Coded so far:
@@ -42,7 +41,7 @@ Some bugs :
 - the bridge will keep on building when the player keeps putting material onto a certain volume.
 - when AI comes up to you and asks if you need help, even if you click no it will continue to follow you
 
-TODO:
+### TODO:
 - want a method to transport blocks on trigger overlapping component to build into some sort of        
 - COMPLETED: maybe make some material
 - rip medieval town models and textures online
