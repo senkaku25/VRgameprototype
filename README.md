@@ -1,9 +1,9 @@
 # What I got so far :)
-This repository documents my ventures into programming games, open source resources I've gathered, and what I've learnt!!
+This repository documents my ventures into programming games, open source resources I have gathered, and what I have learnt.
 
 ### SO FAR:
 
-Resources I have gathered:
+Resources that I have gathered:
 - First person example map
 - Some starter content
 - 3D hand model from the open source web 
@@ -14,9 +14,9 @@ Resources I have gathered:
 - Foliage -> .rar pack from forum
 
 ### IN THE PROCESS OF:
-- Making an AI that follows you and has range
+- Making an Artificial Intelligence (AI) that follows you and has range
 
-Coded so far:
+Programmed so far:
 - Tracing using the camera
 - Prints what player is pointing at
 - Traces when player left click
@@ -43,12 +43,12 @@ Some bugs :
 
 ### TODO:
 - Want a method to transport blocks on trigger overlapping component to build into some sort of        
-- COMPLETED: maybe make some material
+- COMPLETED: make some materials
 - Rip medieval town models and textures online
 - COMPLETED: make followers? (just wanted to use AI here)
 - COMPLETED: make the followers bring up a widget that asks if you want help: if yes they will follow, if no they will stay and wander     until you specifically ask them to again
 - Get villager bodies - ye olde 3d pixel art models (currently a human model placeholder)
-- Make database of speech stuff for AI (AI already has some speech element but will need to implement database for further                 complicated speech)
+- Make database of speech stuff for AI (AI already has speech elements but will need to implement database for further                 complicated speech)
 - Refine the bridge aspect so it doesn't build past the sphere element (maybe do a cube count? difficult due to possibility of large structures)
 - Refine the cube spawner so it won't rapidly spawn every time you click, maybe it delays a bit
 - Find things to do...
